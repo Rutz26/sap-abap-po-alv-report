@@ -11,5 +11,10 @@ This ABAP project displays a list of Purchase Orders using the 'REUSE_ALV_GRID_D
 - SAP ABAP
 - ALV (REUSE_ALV_GRID_DISPLAY)
 
-##Screenshot
+## Screenshot
+ALV Output : https://raw.githubusercontent.com/Rutz26/sap-abap-po-alv-report/d260b66f44bb989700a1b8ad3b0bfe3760c7e3a8/ALV_Output.png
 
+## Author 
+Rutuja Ghumatkar
+LinkedIn Profile : https://www.linkedin.com/in/rutuja-ghumatkar/
+Email Id : rutujaghumatkar262@gmail.com
